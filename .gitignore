@@ -1,1 +1,4 @@
 .ipynb_checkpoint*
+.env
+images/*
+!images/.gitkeep
